@@ -22,3 +22,6 @@
 [submodule "rock-paper-scissors"]
 	path = rock-paper-scissors
 	url = https://github.com/GStreet71/rock-paper-scissors.git
+[submodule "truelove-ranking"]
+	path = truelove-ranking
+	url = https://github.com/GStreet71/truelove-ranking.git
