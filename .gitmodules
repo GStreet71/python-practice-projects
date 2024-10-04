@@ -10,3 +10,6 @@
 [submodule "banking-program"]
 	path = banking-program
 	url = https://github.com/GStreet71/banking-program.git
+[submodule "basic-login-logic"]
+	path = basic-login-logic
+	url = https://github.com/GStreet71/basic-login-logic.git
