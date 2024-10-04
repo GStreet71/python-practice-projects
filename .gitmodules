@@ -28,3 +28,6 @@
 [submodule "life-remaining"]
 	path = life-remaining
 	url = https://github.com/GStreet71/life-remaining.git
+[submodule "is_leapyear"]
+	path = is_leapyear
+	url = https://github.com/GStreet71/is_leapyear.git
