@@ -55,3 +55,6 @@
 [submodule "avg-heights"]
 	path = avg-heights
 	url = https://github.com/GStreet71/avg-heights.git
+[submodule "apr-calculator"]
+	path = apr-calculator
+	url = https://github.com/GStreet71/apr-calculator.git
