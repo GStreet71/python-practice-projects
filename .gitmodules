@@ -19,3 +19,6 @@
 [submodule "split-the-bill"]
 	path = split-the-bill
 	url = https://github.com/GStreet71/split-the-bill.git
+[submodule "rock-paper-scissors"]
+	path = rock-paper-scissors
+	url = https://github.com/GStreet71/rock-paper-scissors.git
