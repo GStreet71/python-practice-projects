@@ -25,3 +25,6 @@
 [submodule "truelove-ranking"]
 	path = truelove-ranking
 	url = https://github.com/GStreet71/truelove-ranking.git
+[submodule "life-remaining"]
+	path = life-remaining
+	url = https://github.com/GStreet71/life-remaining.git
