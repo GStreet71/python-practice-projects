@@ -31,3 +31,6 @@
 [submodule "is_leapyear"]
 	path = is_leapyear
 	url = https://github.com/GStreet71/is_leapyear.git
+[submodule "high-score"]
+	path = high-score
+	url = https://github.com/GStreet71/high-score.git
