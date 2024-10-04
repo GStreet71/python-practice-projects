@@ -40,3 +40,6 @@
 [submodule "generation-identifier"]
 	path = generation-identifier
 	url = https://github.com/GStreet71/generation-identifier.git
+[submodule "exam-grade-calculator"]
+	path = exam-grade-calculator
+	url = https://github.com/GStreet71/exam-grade-calculator.git
