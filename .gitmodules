@@ -13,3 +13,6 @@
 [submodule "basic-login-logic"]
 	path = basic-login-logic
 	url = https://github.com/GStreet71/basic-login-logic.git
+[submodule "daily-affirmations"]
+	path = daily-affirmations
+	url = https://github.com/GStreet71/daily-affirmations.git
