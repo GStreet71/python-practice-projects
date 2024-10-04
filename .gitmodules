@@ -7,3 +7,6 @@
 [submodule "fill-in-the-blank-lyrics"]
 	path = fill-in-the-blank-lyrics
 	url = https://github.com/GStreet71/fill-in-the-blank-lyrics.git
+[submodule "banking-program"]
+	path = banking-program
+	url = https://github.com/GStreet71/banking-program.git
