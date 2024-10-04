@@ -34,3 +34,6 @@
 [submodule "high-score"]
 	path = high-score
 	url = https://github.com/GStreet71/high-score.git
+[submodule "guess-the-number"]
+	path = guess-the-number
+	url = https://github.com/GStreet71/guess-the-number.git
