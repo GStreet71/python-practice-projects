@@ -1,3 +1,6 @@
 [submodule "pizza-order"]
 	path = pizza-order
 	url = https://github.com/GStreet71/pizza-order.git
+[submodule "fake-chiefsfan-finder"]
+	path = fake-chiefsfan-finder
+	url = https://github.com/GStreet71/fake-chiefsfan-finder.git
