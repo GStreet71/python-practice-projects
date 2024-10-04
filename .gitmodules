@@ -52,3 +52,6 @@
 [submodule "cointoss"]
 	path = cointoss
 	url = https://github.com/GStreet71/cointoss.git
+[submodule "avg-heights"]
+	path = avg-heights
+	url = https://github.com/GStreet71/avg-heights.git
