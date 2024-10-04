@@ -16,3 +16,6 @@
 [submodule "daily-affirmations"]
 	path = daily-affirmations
 	url = https://github.com/GStreet71/daily-affirmations.git
+[submodule "split-the-bill"]
+	path = split-the-bill
+	url = https://github.com/GStreet71/split-the-bill.git
