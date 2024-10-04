@@ -37,3 +37,6 @@
 [submodule "guess-the-number"]
 	path = guess-the-number
 	url = https://github.com/GStreet71/guess-the-number.git
+[submodule "generation-identifier"]
+	path = generation-identifier
+	url = https://github.com/GStreet71/generation-identifier.git
