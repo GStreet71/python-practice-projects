@@ -4,3 +4,6 @@
 [submodule "fake-chiefsfan-finder"]
 	path = fake-chiefsfan-finder
 	url = https://github.com/GStreet71/fake-chiefsfan-finder.git
+[submodule "fill-in-the-blank-lyrics"]
+	path = fill-in-the-blank-lyrics
+	url = https://github.com/GStreet71/fill-in-the-blank-lyrics.git
