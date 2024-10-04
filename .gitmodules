@@ -46,3 +46,6 @@
 [submodule "fizzbuzz"]
 	path = fizzbuzz
 	url = https://github.com/GStreet71/fizzbuzz.git
+[submodule "bmi-calculator"]
+	path = bmi-calculator
+	url = https://github.com/GStreet71/bmi-calculator.git
