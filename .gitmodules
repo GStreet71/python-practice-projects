@@ -49,3 +49,6 @@
 [submodule "bmi-calculator"]
 	path = bmi-calculator
 	url = https://github.com/GStreet71/bmi-calculator.git
+[submodule "cointoss"]
+	path = cointoss
+	url = https://github.com/GStreet71/cointoss.git
