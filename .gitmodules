@@ -43,3 +43,6 @@
 [submodule "exam-grade-calculator"]
 	path = exam-grade-calculator
 	url = https://github.com/GStreet71/exam-grade-calculator.git
+[submodule "fizzbuzz"]
+	path = fizzbuzz
+	url = https://github.com/GStreet71/fizzbuzz.git
