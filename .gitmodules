@@ -58,3 +58,6 @@
 [submodule "apr-calculator"]
 	path = apr-calculator
 	url = https://github.com/GStreet71/apr-calculator.git
+[submodule "band-name-generator"]
+	path = band-name-generator
+	url = https://github.com/GStreet71/band-name-generator.git
